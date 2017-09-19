@@ -2,7 +2,7 @@ class CfgPatches
 { 
     class RDF_Gradstegn 
     { 
-        units[] = {"RDF_Gradstegn_Mod";}; 
+        units[] = {"RDF_Gradstegn_Mod"}; 
         weapons[] = {}; 
         requiredVersion = 0.2; 
         requiredAddons[] = {"A3_Characters_F"}; 
